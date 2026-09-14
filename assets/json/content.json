@@ -1,0 +1,6 @@
+{
+  "envelopes": [
+    {"name": "Groceries", "spent": 120.0, "total": 400.0},
+    {"name": "Entertainment", "spent": 50.0, "total": 150.0}
+  ]
+}
