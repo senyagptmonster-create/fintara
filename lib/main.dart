@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'presentation/fintara_app.dart';
+import 'fintara_app.dart';
 
-void main() async {
+void main() {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(const FintaraApp());
 }
